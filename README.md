@@ -55,8 +55,10 @@ pandas - data handling library
 XGBoost - Used for making regression models
 Surprise - used for making recommendation system models
 
-Authors
+Authors:
+
 Abraham Siril Sam
 
-Acknowledgments
+Acknowledgments:
+
 Applied AI Course
